@@ -1,0 +1,14 @@
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\bin\Debug\net8.0\HeplerMap.deps.json
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\bin\Debug\net8.0\HeplerMap.runtimeconfig.json
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\bin\Debug\net8.0\HeplerMap.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\bin\Debug\net8.0\HeplerMap.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\obj\Debug\net8.0\HeplerMap.csproj.AssemblyReference.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\obj\Debug\net8.0\HeplerMap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\obj\Debug\net8.0\HeplerMap.AssemblyInfoInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\obj\Debug\net8.0\HeplerMap.AssemblyInfo.cs
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\obj\Debug\net8.0\HeplerMap.csproj.CoreCompileInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\obj\Debug\net8.0\HeplerMap.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\obj\Debug\net8.0\refint\HeplerMap.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\obj\Debug\net8.0\HeplerMap.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\obj\Debug\net8.0\HeplerMap.genruntimeconfig.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\HeplerMap\obj\Debug\net8.0\ref\HeplerMap.dll

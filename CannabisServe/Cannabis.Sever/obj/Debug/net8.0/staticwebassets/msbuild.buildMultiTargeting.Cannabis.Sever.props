@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cannabis.Sever.props" />
+</Project>

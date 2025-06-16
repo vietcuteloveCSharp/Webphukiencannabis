@@ -1,0 +1,14 @@
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\bin\Debug\net8.0\Enum.deps.json
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\bin\Debug\net8.0\Enum.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\bin\Debug\net8.0\Enum.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\obj\Debug\net8.0\Enum.csproj.AssemblyReference.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\obj\Debug\net8.0\Enum.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\obj\Debug\net8.0\refint\Enum.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\obj\Debug\net8.0\Enum.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Enum\obj\Debug\net8.0\ref\Enum.dll

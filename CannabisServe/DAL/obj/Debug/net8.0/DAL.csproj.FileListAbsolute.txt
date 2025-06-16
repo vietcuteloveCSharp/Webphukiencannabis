@@ -1,0 +1,17 @@
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\bin\Debug\net8.0\DAL.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\bin\Debug\net8.0\Enum.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\bin\Debug\net8.0\Enum.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\obj\Debug\net8.0\DAL.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\DAL\obj\Debug\net8.0\ref\DAL.dll

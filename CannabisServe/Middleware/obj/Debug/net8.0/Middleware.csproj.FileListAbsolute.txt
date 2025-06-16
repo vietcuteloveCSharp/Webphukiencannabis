@@ -1,0 +1,11 @@
+D:\Webphukiencannabis\WebCannabisAccessorries\Middleware\bin\Debug\net8.0\Middleware.deps.json
+D:\Webphukiencannabis\WebCannabisAccessorries\Middleware\bin\Debug\net8.0\Middleware.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Middleware\bin\Debug\net8.0\Middleware.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webphukiencannabis\WebCannabisAccessorries\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+D:\Webphukiencannabis\WebCannabisAccessorries\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Middleware\obj\Debug\net8.0\Middleware.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Middleware\obj\Debug\net8.0\Middleware.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\Middleware\obj\Debug\net8.0\ref\Middleware.dll

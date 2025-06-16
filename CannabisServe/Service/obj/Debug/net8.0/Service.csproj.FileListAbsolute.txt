@@ -1,0 +1,14 @@
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\bin\Debug\net8.0\Service.deps.json
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\bin\Debug\net8.0\Service.runtimeconfig.json
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\bin\Debug\net8.0\Service.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\bin\Debug\net8.0\Service.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\obj\Debug\net8.0\Service.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\obj\Debug\net8.0\refint\Service.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\obj\Debug\net8.0\Service.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Service\obj\Debug\net8.0\ref\Service.dll

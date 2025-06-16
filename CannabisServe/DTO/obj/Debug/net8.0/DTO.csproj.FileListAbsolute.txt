@@ -1,0 +1,14 @@
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\bin\Debug\net8.0\DTO.runtimeconfig.json
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\bin\Debug\net8.0\DTO.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\bin\Debug\net8.0\DTO.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\obj\Debug\net8.0\DTO.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\obj\Debug\net8.0\DTO.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\obj\Debug\net8.0\DTO.genruntimeconfig.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\DTO\obj\Debug\net8.0\ref\DTO.dll

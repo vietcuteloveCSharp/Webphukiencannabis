@@ -1,0 +1,11 @@
+D:\Webphukiencannabis\WebCannabisAccessorries\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\Webphukiencannabis\WebCannabisAccessorries\Repository\bin\Debug\net8.0\Repository.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Repository\bin\Debug\net8.0\Repository.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webphukiencannabis\WebCannabisAccessorries\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\Webphukiencannabis\WebCannabisAccessorries\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\Webphukiencannabis\WebCannabisAccessorries\Repository\obj\Debug\net8.0\Repository.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\Webphukiencannabis\WebCannabisAccessorries\Repository\obj\Debug\net8.0\Repository.pdb
+D:\Webphukiencannabis\WebCannabisAccessorries\Repository\obj\Debug\net8.0\ref\Repository.dll
