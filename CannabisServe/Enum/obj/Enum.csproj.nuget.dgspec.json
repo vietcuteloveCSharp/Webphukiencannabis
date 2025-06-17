@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Webphukiencannabis\\CannabisSever\\Enum\\Enum.csproj": {}
+    "D:\\Webphukiencannabis\\CannabisServe\\Enum\\Enum.csproj": {}
   },
   "projects": {
-    "D:\\Webphukiencannabis\\CannabisSever\\Enum\\Enum.csproj": {
+    "D:\\Webphukiencannabis\\CannabisServe\\Enum\\Enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisSever\\Enum\\Enum.csproj",
+        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\Enum\\Enum.csproj",
         "projectName": "Enum",
-        "projectPath": "D:\\Webphukiencannabis\\CannabisSever\\Enum\\Enum.csproj",
+        "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\Enum\\Enum.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Webphukiencannabis\\CannabisSever\\Enum\\obj\\",
+        "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\Enum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

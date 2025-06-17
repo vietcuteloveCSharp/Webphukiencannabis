@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Webphukiencannabis\\CannabisSever\\Middleware\\Middleware.csproj",
+      "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\Middleware\\Middleware.csproj",
       "projectName": "Middleware",
-      "projectPath": "D:\\Webphukiencannabis\\CannabisSever\\Middleware\\Middleware.csproj",
+      "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\Middleware\\Middleware.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Webphukiencannabis\\CannabisSever\\Middleware\\obj\\",
+      "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\Middleware\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

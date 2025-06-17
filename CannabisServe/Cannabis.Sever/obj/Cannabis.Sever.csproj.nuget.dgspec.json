@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Webphukiencannabis\\CannabisSever\\Cannabis.Sever\\Cannabis.Sever.csproj": {}
+    "D:\\Webphukiencannabis\\CannabisServe\\Cannabis.Sever\\Cannabis.Sever.csproj": {}
   },
   "projects": {
-    "D:\\Webphukiencannabis\\CannabisSever\\Cannabis.Sever\\Cannabis.Sever.csproj": {
+    "D:\\Webphukiencannabis\\CannabisServe\\Cannabis.Sever\\Cannabis.Sever.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisSever\\Cannabis.Sever\\Cannabis.Sever.csproj",
+        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\Cannabis.Sever\\Cannabis.Sever.csproj",
         "projectName": "Cannabis.Sever",
-        "projectPath": "D:\\Webphukiencannabis\\CannabisSever\\Cannabis.Sever\\Cannabis.Sever.csproj",
+        "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\Cannabis.Sever\\Cannabis.Sever.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Webphukiencannabis\\CannabisSever\\Cannabis.Sever\\obj\\",
+        "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\Cannabis.Sever\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Webphukiencannabis\\CannabisSever\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\Webphukiencannabis\\CannabisSever\\DAL\\DAL.csproj"
+              "D:\\Webphukiencannabis\\CannabisServe\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\DAL\\DAL.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "D:\\Webphukiencannabis\\CannabisSever\\DAL\\DAL.csproj": {
+    "D:\\Webphukiencannabis\\CannabisServe\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisSever\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\Webphukiencannabis\\CannabisSever\\DAL\\DAL.csproj",
+        "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Webphukiencannabis\\CannabisSever\\DAL\\obj\\",
+        "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -123,8 +123,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Webphukiencannabis\\CannabisSever\\Enum\\Enum.csproj": {
-                "projectPath": "D:\\Webphukiencannabis\\CannabisSever\\Enum\\Enum.csproj"
+              "D:\\Webphukiencannabis\\CannabisServe\\Enum\\Enum.csproj": {
+                "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\Enum\\Enum.csproj"
               }
             }
           }
@@ -185,14 +185,14 @@
         }
       }
     },
-    "D:\\Webphukiencannabis\\CannabisSever\\Enum\\Enum.csproj": {
+    "D:\\Webphukiencannabis\\CannabisServe\\Enum\\Enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisSever\\Enum\\Enum.csproj",
+        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\Enum\\Enum.csproj",
         "projectName": "Enum",
-        "projectPath": "D:\\Webphukiencannabis\\CannabisSever\\Enum\\Enum.csproj",
+        "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\Enum\\Enum.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Webphukiencannabis\\CannabisSever\\Enum\\obj\\",
+        "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\Enum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

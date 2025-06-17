@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Webphukiencannabis\\CannabisSever\\Middleware\\Middleware.csproj": {}
+    "D:\\Webphukiencannabis\\CannabisServe\\Middleware\\Middleware.csproj": {}
   },
   "projects": {
-    "D:\\Webphukiencannabis\\CannabisSever\\Middleware\\Middleware.csproj": {
+    "D:\\Webphukiencannabis\\CannabisServe\\Middleware\\Middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisSever\\Middleware\\Middleware.csproj",
+        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\Middleware\\Middleware.csproj",
         "projectName": "Middleware",
-        "projectPath": "D:\\Webphukiencannabis\\CannabisSever\\Middleware\\Middleware.csproj",
+        "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\Middleware\\Middleware.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Webphukiencannabis\\CannabisSever\\Middleware\\obj\\",
+        "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\Middleware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

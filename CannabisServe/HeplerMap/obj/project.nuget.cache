@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ISghBxVIED0=",
+  "dgSpecHash": "ewSz7MZLOA4=",
   "success": true,
-  "projectFilePath": "D:\\Webphukiencannabis\\CannabisSever\\HeplerMap\\HeplerMap.csproj",
+  "projectFilePath": "D:\\Webphukiencannabis\\CannabisServe\\HeplerMap\\HeplerMap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

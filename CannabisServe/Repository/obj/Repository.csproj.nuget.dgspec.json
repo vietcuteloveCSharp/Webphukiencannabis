@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Webphukiencannabis\\CannabisSever\\Repository\\Repository.csproj": {}
+    "D:\\Webphukiencannabis\\CannabisServe\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "D:\\Webphukiencannabis\\CannabisSever\\Repository\\Repository.csproj": {
+    "D:\\Webphukiencannabis\\CannabisServe\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisSever\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\Webphukiencannabis\\CannabisSever\\Repository\\Repository.csproj",
+        "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Webphukiencannabis\\CannabisSever\\Repository\\obj\\",
+        "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

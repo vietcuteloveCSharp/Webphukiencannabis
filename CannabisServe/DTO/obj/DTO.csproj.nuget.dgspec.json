@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Webphukiencannabis\\CannabisSever\\DTO\\DTO.csproj": {}
+    "D:\\Webphukiencannabis\\CannabisServe\\DTO\\DTO.csproj": {}
   },
   "projects": {
-    "D:\\Webphukiencannabis\\CannabisSever\\DTO\\DTO.csproj": {
+    "D:\\Webphukiencannabis\\CannabisServe\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisSever\\DTO\\DTO.csproj",
+        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "D:\\Webphukiencannabis\\CannabisSever\\DTO\\DTO.csproj",
+        "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\DTO\\DTO.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Webphukiencannabis\\CannabisSever\\DTO\\obj\\",
+        "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

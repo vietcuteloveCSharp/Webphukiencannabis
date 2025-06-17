@@ -4053,11 +4053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Webphukiencannabis\\CannabisSever\\HeplerMap\\HeplerMap.csproj",
+      "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\HeplerMap\\HeplerMap.csproj",
       "projectName": "HeplerMap",
-      "projectPath": "D:\\Webphukiencannabis\\CannabisSever\\HeplerMap\\HeplerMap.csproj",
+      "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\HeplerMap\\HeplerMap.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Webphukiencannabis\\CannabisSever\\HeplerMap\\obj\\",
+      "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\HeplerMap\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
