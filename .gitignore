@@ -5,8 +5,8 @@ cannabisclient/.angular/cache/
 cannabisclient/src/environments/environment*.ts
 
 # .NET (Visual Studio)
-cannabisserve/bin/
-cannabisserve/obj/
+cannabisserver/bin/
+cannabisserver/obj/
 *.user
 *.suo
 .vs/
