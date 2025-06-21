@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Enum
-build_property.ProjectDir = D:\Webphukiencannabis\CannabisServe\Enum\
+build_property.ProjectDir = D:\Webphukiencannabis\CannabisServer\Enum\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

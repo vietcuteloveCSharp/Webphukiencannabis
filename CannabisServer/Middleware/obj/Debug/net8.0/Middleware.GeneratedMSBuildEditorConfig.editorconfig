@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Middleware
-build_property.ProjectDir = D:\Webphukiencannabis\CannabisServe\Middleware\
+build_property.ProjectDir = D:\Webphukiencannabis\CannabisServer\Middleware\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

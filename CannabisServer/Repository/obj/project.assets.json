@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\Repository\\Repository.csproj",
+      "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServer\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\Repository\\Repository.csproj",
+      "projectPath": "D:\\Webphukiencannabis\\CannabisServer\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\Repository\\obj\\",
+      "outputPath": "D:\\Webphukiencannabis\\CannabisServer\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

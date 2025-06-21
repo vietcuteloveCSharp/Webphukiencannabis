@@ -4498,11 +4498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\Cannabis.Sever\\Cannabis.Server.csproj",
+      "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServer\\Cannabis.Sever\\Cannabis.Server.csproj",
       "projectName": "Cannabis.Server",
-      "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\Cannabis.Sever\\Cannabis.Server.csproj",
+      "projectPath": "D:\\Webphukiencannabis\\CannabisServer\\Cannabis.Sever\\Cannabis.Server.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\Cannabis.Sever\\obj\\",
+      "outputPath": "D:\\Webphukiencannabis\\CannabisServer\\Cannabis.Sever\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4520,8 +4520,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Webphukiencannabis\\CannabisServe\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\DAL\\DAL.csproj"
+            "D:\\Webphukiencannabis\\CannabisServer\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\Webphukiencannabis\\CannabisServer\\DAL\\DAL.csproj"
             }
           }
         }

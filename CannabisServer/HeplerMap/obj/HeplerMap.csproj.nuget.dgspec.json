@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Webphukiencannabis\\CannabisServe\\HeplerMap\\HeplerMap.csproj": {}
+    "D:\\Webphukiencannabis\\CannabisServer\\HeplerMap\\HeplerMap.csproj": {}
   },
   "projects": {
-    "D:\\Webphukiencannabis\\CannabisServe\\HeplerMap\\HeplerMap.csproj": {
+    "D:\\Webphukiencannabis\\CannabisServer\\HeplerMap\\HeplerMap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\HeplerMap\\HeplerMap.csproj",
+        "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServer\\HeplerMap\\HeplerMap.csproj",
         "projectName": "HeplerMap",
-        "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\HeplerMap\\HeplerMap.csproj",
+        "projectPath": "D:\\Webphukiencannabis\\CannabisServer\\HeplerMap\\HeplerMap.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\HeplerMap\\obj\\",
+        "outputPath": "D:\\Webphukiencannabis\\CannabisServer\\HeplerMap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

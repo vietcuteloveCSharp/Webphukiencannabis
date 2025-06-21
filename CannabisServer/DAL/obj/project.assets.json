@@ -4042,11 +4042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServe\\DAL\\DAL.csproj",
+      "projectUniqueName": "D:\\Webphukiencannabis\\CannabisServer\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\DAL\\DAL.csproj",
+      "projectPath": "D:\\Webphukiencannabis\\CannabisServer\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Webphukiencannabis\\CannabisServe\\DAL\\obj\\",
+      "outputPath": "D:\\Webphukiencannabis\\CannabisServer\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4064,8 +4064,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Webphukiencannabis\\CannabisServe\\Enum\\Enum.csproj": {
-              "projectPath": "D:\\Webphukiencannabis\\CannabisServe\\Enum\\Enum.csproj"
+            "D:\\Webphukiencannabis\\CannabisServer\\Enum\\Enum.csproj": {
+              "projectPath": "D:\\Webphukiencannabis\\CannabisServer\\Enum\\Enum.csproj"
             }
           }
         }
