@@ -9,6 +9,7 @@ cannabisserve/bin/
 cannabisserve/obj/
 *.user
 *.suo
+.vs/
 
 # OS + IDE
 .DS_Store
