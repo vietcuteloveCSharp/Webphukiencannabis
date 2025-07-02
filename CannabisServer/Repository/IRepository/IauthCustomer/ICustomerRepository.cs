@@ -12,10 +12,11 @@ namespace Repository.IRepository.IauthCustomer
 	{
 
 		IAsyncEnumerable<Customer> GetAllCustomersAsync();
-		Task<Customer> GetCustomerByIdAsync(int id);		
+		Task<Customer?> GetCustomerByIdAsync(int id);		
 		Task<bool> EmailExistsAsync(string email);
 		Task<bool> UserNameExistsAsync(string userName);
-		Task<CustomerDTO> AddCustomerAsync(CustomerDTO customerDTO);
+		Task<Customer> AddCustomerAsync(Customer customer);
+		Task<Customer?> GetByUsernameAsync(string username);
 
 	}
 }
